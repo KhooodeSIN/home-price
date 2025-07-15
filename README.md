@@ -30,12 +30,6 @@ Plot a bar chart to show the number of recommended houses per region.
 
 Finally, suggest the best region to buy, based on the most recommended houses.
 
-4️⃣ Confusion matrix (if there is a categorical column)
-If there is a categorical column (e.g., Region, Quality), build a classification model.
-
-Create and display a confusion matrix to see how well the model predicts each category.
-
-Useful for analyzing model performance on discrete classes.
 
 ✅ 🏁 Final outputs
 ✔ Recommended houses: Houses with prices close to the predicted value (fair price).
